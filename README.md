@@ -1,16 +1,21 @@
-## Hi there 👋
+# ¡Hola! Soy Oswaldo Alexander Cuasquer Cadena 👋
 
-<!--
-**OswaldoAlexanderCC/OswaldoAlexanderCC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Ingeniero Industrial (Universidad Distrital, Bogotá) enfocado en la intersección
+entre **datos y operaciones**: me interesa entender por qué una operación falla
+y demostrarlo con evidencia, no con percepciones.
 
-Here are some ideas to get you started:
+### 🔧 Lo que hago
+- **Analítica de datos:** Python (Pandas, NumPy, scikit-learn) · SQL y PostgreSQL · Power BI · Excel avanzado
+- **Ingeniería de procesos:** modelos de capacidad y staffing, estudios de tiempos, Lean, estandarización
+- En mi práctica en **Cruz Verde (FEMSA Salud)** automaticé en Python el procesamiento
+  de bases de ~350.000 registros (de ~6 horas a ~20 minutos) y construí diagnósticos
+  operacionales para 3 clínicas de alta complejidad.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📌 Proyectos destacados
+- [`diagnostico-operacional`](enlace) — Análisis de capacidad, demanda y staffing con datos sintéticos (metodología real de operaciones hospitalarias)
+- [`portafolio-machine-learning`](enlace) — Regresión, clasificación y clustering con scikit-learn, con casos aplicados
+
+### 🎓 Formación
++35 cursos certificados en Platzi (rutas Data Scientist y Análisis Financiero) · Power BI (Coursera)
+
+📫 **Contacto:** Alexandercuasquerc@gmail.com · [LinkedIn](https://www.linkedin.com/in/oswaldo-cuasquer)
